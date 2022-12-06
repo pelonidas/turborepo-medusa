@@ -20,6 +20,11 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@medusajs/medusa": "^1.6.5",
+    "medusa-react": "^3.0.1",
+    "react-query": "^3.39.2",
+    "web": "^0.0.2"
+  },
   "packageManager": "yarn@1.22.19"
 }
